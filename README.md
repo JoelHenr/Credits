@@ -1,2 +1,2 @@
 # Credits
-Reimaginging currency to control for inlationary and defaltionary periods. 
+Reimaginging currency to control for inflationary and deflationary periods. 

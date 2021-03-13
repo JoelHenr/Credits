@@ -1,12 +1,12 @@
 import random
 
-# Set interest rate to 1
+# Set interest rate to 0
 interest = 0
 
 # transactions generator
 trans = [random.randrange(1, 1000) for _ in range(100)]
 
-# geting the last 10 actual transactions
+# geting the last 50 actual transactions
 first_actuals = trans[0:50:]
 last_actuals = trans[50::]
 
